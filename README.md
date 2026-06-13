@@ -1,8 +1,10 @@
 # Craftut — Educational 3D printing Platform
+<img width=70% src="assets/images/P10.jpeg" alt="Printer photo"/>
 <!--
 &gt; **Engineering Portfolio Repository**  
 &gt; This repository documents the product development, systems engineering, and technical leadership behind Craftut, a child-focused educational 3D printing platform. It is intended for review by engineering hiring managers, technical leads, and R&D teams.
 -->
+
 ---
 
 ## Repository Purpose
@@ -31,6 +33,8 @@ Transparency and engineering credibility are prioritized throughout.
 ## Project Overview
 
 Craftut is a child-focused educational additive manufacturing platform. The first product is a purpose-built educational 3D printer designed for children, families, educators, schools, and STEM learning environments.
+
+<img width=70% src="assets/diagrams/systems-level-product-ecosystem-diagram.png" alt="systems-level-product-ecosystem-diagram"/>
 
 The goal was not simply to build another 3D printer. The goal was to simplify additive manufacturing and transform it into a guided educational experience accessible to first-time users and children.
 
@@ -63,6 +67,32 @@ The printer serves as the entry point into this broader ecosystem.
 The project is undergoing design revisions and improvements based on lessons learned and identified limitations from the exhibition MVP. It remains an active engineering effort.
 
 ---
+
+## Contact
+
+**Abdelaziz Elmasry**  
+Co-Founder & Technical Lead, Alex Dynamics  
+Alexandria, Egypt
+
+- LinkedIn: [linkedin.com/in/abdelaziz-elmasry-07051997](https://linkedin.com/in/abdelaziz-elmasry-07051997)
+- Email: [Abdelaziz.Ahmed.Elmasry@gmail.com](mailto:Abdelaziz.Ahmed.Elmasry@gmail.com)
+<!-- - Portfolio: [github.com/AbdelazizElmasry/portfolio](https://github.com/AbdelazizElmasry/portfolio) -->
+
+---
+
+<img width=50% src="assets/images/P7.jpeg" alt="Product photo"/><img width=50% src="assets/renders/R4.jpeg" alt="Product Render"/>
+<img width=50% src="assets/images/P10.jpeg" alt="Product photo"/><img width=50% src="assets/renders/R5.jpeg" alt="Product Render"/>
+
+---
+
+<img width=50% src="assets/images/P1.jpg" alt="1st Prototype"/><img width=50% src="assets/renders/R1.JPG" alt="1st Prototype"/>
+<img width=50% src="assets/images/P2.jpeg" alt="1st Prototype"/><img width=50% src="assets/renders/R2.JPG" alt="1st Prototype"/>
+
+---
+
+<img width=50% src="assets/ui/01 Welcome Screen .png" alt="UI"/><img width=50% src="assets/ui/GUI Full Project-02.png" alt="UI"/>
+<img width=50% src="assets/ui/GUI Full Project-06.png" alt="UI"/><img width=50% src="assets/ui/GUI Full Project-07 Printing Status Bar .png" alt="UI"/>
+
 <!--
 ## Placeholder Inventory
 
